@@ -1,0 +1,10 @@
+{
+  "method": "rainflow_4point",
+  "signal_samples": 1075,
+  "turning_points": 404,
+  "rainflow_cycles": 205,
+  "equivalent_cycles": 199.5,
+  "selected_non_overlapping_intervals": 7,
+  "seed": 11,
+  "noise_std": 0.009
+}

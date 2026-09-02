@@ -1,0 +1,10 @@
+{
+  "method": "rainflow_3point_demo",
+  "signal_samples": 1075,
+  "turning_points": 404,
+  "rainflow_cycles": 204,
+  "equivalent_cycles": 201.5,
+  "selected_non_overlapping_intervals": 8,
+  "seed": 11,
+  "noise_std": 0.009
+}

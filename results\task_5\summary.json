@@ -1,0 +1,12 @@
+{
+  "implementation": "task_5.py",
+  "input_points": 15,
+  "starting_peaks": 8,
+  "valleys": 7,
+  "generated_flows": 7,
+  "termination_cases": {
+    "b": 2,
+    "bb": 3,
+    "c": 2
+  }
+}
